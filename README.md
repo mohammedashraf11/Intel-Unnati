@@ -53,6 +53,9 @@ In TensorFlow we have divided the dataset into two parts one is test and the oth
    - Save a few images taken through the webcam.let them be apporved vehicles.
    - convert the number plate into string and store it.
    - Using binarysearch check whether the vehicle is allowed or not.
+8. **Note**
+   -Performed number plate detection in two ways
+   -one is through tensorflow and other pretrained model.
       
 
 
